@@ -2,44 +2,55 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
-    <link rel="stylesheet" href="index.css">
+  <meta charset="utf-8">
+  <link href="https://cursedprograms.github.io/cursedentertainment/cursedFavicon.png" rel="icon" type="image/x-icon" />
+  <title>Image-Gen-Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
 </head>
 
 <body>
+  <div class="content">
+    <div class="header_container">
+      <div class="header_img"> <img
+          src="https://raw.githubusercontent.com/CursedPrograms/cursedentertainment/main/images/logos/cursed-logo.png"
+          alt="CursedEntertainment Logo" width="277" height="149"> </div>
+      <div class="horizontal-menu"> <br>
+        <ul>
+          <li><a href="https://github.com/CursedPrograms/Image-Generator">Image-Gen</a></li>
+        </ul>
+      </div>
+    </div>
+  <div class="grid_container">
+    <div class="grid" id="imageContainer"></div>
+    <script>
+      for (var i = 1; i <= 104; i++) {
+        var scaleFadeDiv = document.createElement("div");
+        scaleFadeDiv.className = "scale-fade";
 
-    <header>
-        <h1>Your Website</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+        var gridItemDiv = document.createElement("div");
+        gridItemDiv.className = "grid-item";
 
-    <main>
-        <section>
-            <h2>Welcome to Our Website!</h2>
-            <p>This is the main content of your website. You can add more sections, text, images, and other
-                elements.</p>
-        </section>
+        var imgTag = document.createElement("img");
+        imgTag.src = "images/demo (" + i + ").jpg";
+        imgTag.alt = "Demo" + i;
+        imgTag.className = "img";
 
-        <!-- Add more sections as needed -->
+        gridItemDiv.appendChild(imgTag);
+        scaleFadeDiv.appendChild(gridItemDiv);
 
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Your Website. All rights reserved.</p>
-    </footer>
-
-    <!-- Add your scripts or other body elements here -->
-    <script src="script/script.js"></script>
-
+        document.getElementById("imageContainer").appendChild(scaleFadeDiv);
+      }
+    </script>
+  </div>
+  </div>
+  <div class="icons_container">
+    <iframe
+      src="https://cursedprograms.github.io/cursedentertainment/iframes/social-media-icons/social-media-icons.html"
+      frameborder="0"></iframe>
+  </div>
+  <footer id="dynamicFooter"></footer>
+  <script src="https://cursedprograms.github.io/cursedentertainment/scripts/footer.js"></script>
 </body>
 
 </html>
