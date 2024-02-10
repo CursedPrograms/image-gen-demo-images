@@ -10,6 +10,8 @@
 
 # image-gen-demo-images
 
+- [Image-Generator Repository](https://github.com/CursedPrograms/Image-Generator)
+
 <div align="center">
 
 ![Demo Image](https://github.com/CursedPrograms/Image-Generator/raw/main/demo-images/demo00.jpg)
