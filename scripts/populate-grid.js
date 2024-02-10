@@ -19,7 +19,7 @@ async function loadImageAsync(imageName, extensions) {
 }
 
 async function loadImages() {
-  for (let i = 1; i <= 159; i++) {
+  for (let i = 1; i <= 192; i++) {
     const scaleFadeDiv = document.createElement("div");
     scaleFadeDiv.className = "scale-fade";
 
