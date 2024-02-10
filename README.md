@@ -14,10 +14,18 @@
 
 <div align="center">
 
-![Demo Image](https://github.com/CursedPrograms/Image-Generator/raw/main/demo-images/demo00.jpg)
-![Demo Image](https://github.com/CursedPrograms/Image-Generator/raw/main/demo-images/demo01.jpg)
-![Demo Image](https://github.com/CursedPrograms/Image-Generator/raw/main/demo-images/demo02.jpg)
-![Demo Image](https://github.com/CursedPrograms/Image-Generator/raw/main/demo-images/demo03.jpg)
+![Demo Image](/images/demo%20(1).jpg)
+![Demo Image](/images/demo%20(2).jpg)
+![Demo Image](/images/demo%20(3).jpg)
+![Demo Image](/images/demo%20(4).jpg)
+![Demo Image](/images/demo%20(5).jpg)
+![Demo Image](/images/demo%20(6).jpg)
+![Demo Image](/images/demo%20(7).jpg)
+![Demo Image](/images/demo%20(8).jpg)
+![Demo Image](/images/demo%20(9).jpg)
+![Demo Image](/images/demo%20(10).jpg)
+![Demo Image](/images/demo%20(11).jpg)
+![Demo Image](/images/demo%20(12).jpg)
 
 </div>
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
