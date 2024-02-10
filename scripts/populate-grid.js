@@ -1,4 +1,4 @@
-for (var i = 1; i <= 130; i++) {
+for (var i = 1; i <= 159; i++) {
     var scaleFadeDiv = document.createElement("div");
     scaleFadeDiv.className = "scale-fade";
 
