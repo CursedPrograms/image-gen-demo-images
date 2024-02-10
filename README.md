@@ -10,6 +10,9 @@
 
 # image-gen-demo-images
 
+
+![Demo Image](https://github.com/CursedPrograms/Image-Generator/blob/main/demo_images/image-gen-cover.png)
+
 - [Image-Generator Repository](https://github.com/CursedPrograms/Image-Generator)
 
 <div align="center">
