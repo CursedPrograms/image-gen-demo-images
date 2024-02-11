@@ -15,7 +15,7 @@
 <div align="center">
 <a href="https://github.com/CursedPrograms/Image-Generator" target="_blank">
     <img src="https://github.com/CursedPrograms/Image-Generator/blob/main/demo_images/image-gen-cover.png"
-        alt="Image-Generator" style="width:250px;">
+        alt="Image-Generator">
 </a>
 </div>
 
