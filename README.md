@@ -11,27 +11,25 @@
 # image-gen-demo-images
 
 
-![Demo Image](https://github.com/CursedPrograms/Image-Generator/blob/main/demo_images/image-gen-cover.png)
-
-- [Image-Generator Repository](https://github.com/CursedPrograms/Image-Generator)
-
+<br>
 <div align="center">
-
-![Demo Image](/images/demo%20(1).jpg)
-![Demo Image](/images/demo%20(2).jpg)
-![Demo Image](/images/demo%20(3).jpg)
-![Demo Image](/images/demo%20(4).jpg)
-![Demo Image](/images/demo%20(5).jpg)
-![Demo Image](/images/demo%20(6).jpg)
-![Demo Image](/images/demo%20(7).jpg)
-![Demo Image](/images/demo%20(8).jpg)
-![Demo Image](/images/demo%20(9).jpg)
-![Demo Image](/images/demo%20(10).jpg)
-![Demo Image](/images/demo%20(11).jpg)
-![Demo Image](/images/demo%20(12).jpg)
-
+<a href="https://github.com/CursedPrograms/Image-Generator" target="_blank">
+    <img src="https://github.com/CursedPrograms/Image-Generator/blob/main/demo_images/image-gen-cover.png"
+        alt="Image-Generator" style="width:250px;">
+</a>
 </div>
+
+<br>
+<div align="center">
+<a href="https://github.com/SynthWomb" target="_blank" align="center">
+    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/synthwomb07.png"
+        alt="SynthWomb" style="width:200px;"/>
+</a>
+</div>
+<br>
+<div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
-        alt="CursedEntertainment Logo">
+        alt="CursedEntertainment Logo" style="width:250px;">
 </a>
+</div>
